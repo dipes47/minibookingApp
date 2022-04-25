@@ -1,0 +1,20 @@
+#navbar{
+    display:flex;
+    justify-content: space-between;
+}
+#add-money{
+    text-align:center;
+}
+#amount{
+    margin-top: 80px;
+}
+#add_to_wallet{
+    margin-top: 40px;
+}
+#book_movies{
+    margin-top: 25px;
+}
+p{
+    font-size: 33px;
+    padding-top: -8px;
+}
